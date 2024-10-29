@@ -16,10 +16,6 @@
         "translate": "text.nucleoid_extras.ui.action.halloween_event"
       }
     },
-    "6:2": {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/casual"
-    },
     "4:3": {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:top_level/categories/party",
@@ -27,6 +23,10 @@
       "message": {
         "translate": "text.nucleoid_extras.ui.action.party_games"
       }
+    },
+    "6:2": {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:top_level/categories/casual"
     }
   }
 }
