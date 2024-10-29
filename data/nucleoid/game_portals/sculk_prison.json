@@ -1,0 +1,10 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:sculk_shrieker",
+  "games": [
+    "sculkprison:standard_skulk_prison"
+  ],
+  "name": {
+    "translate": "game.sculkprison.sculk_prison"
+  }
+}
