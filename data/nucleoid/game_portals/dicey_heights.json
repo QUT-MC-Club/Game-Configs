@@ -1,0 +1,10 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:bedrock",
+  "games": [
+    "diceyheights:standard_dicey_heights"
+  ],
+  "name": {
+    "translate": "gameType.dicey_heights.dicey_heights"
+  }
+}
