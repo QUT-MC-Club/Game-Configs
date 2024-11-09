@@ -30,32 +30,12 @@
       }
     },
     {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:block_lobbers"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:cabinfever"
-    },
-    {
       "type": "nucleoid_extras:quick_portal",
       "portal": "nucleoid:color_swap/root",
       "quick_portal": "nucleoid:color_swap/random",
       "message": {
         "translate": "text.nucleoid_extras.ui.action.modes"
       }
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:cornmaze/root",
-      "quick_portal": "nucleoid:cornmaze/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:deacoudre/root"
     },
     {
       "type": "plasmid:portal",
@@ -92,10 +72,6 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:minefield"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:dicey_heights"
     },
     {
       "type": "nucleoid_extras:quick_portal",

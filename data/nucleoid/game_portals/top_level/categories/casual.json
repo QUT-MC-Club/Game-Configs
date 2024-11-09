@@ -52,6 +52,14 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:volleyball"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:creeperfall"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:dicey_heights/root"
     }
   ]
 }
