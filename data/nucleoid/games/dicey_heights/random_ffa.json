@@ -1,0 +1,15 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "dicey_heights:standard_dicey_heights",
+    "dicey_heights:separate_dicey_heights",
+    "dicey_heights:many_dicey_heights",
+    "dicey_heights:standard_pillar_spawning_dicey_heights",
+    "dicey_heights:separate_pillar_spawning_dicey_heights",
+    "dicey_heights:many_pillar_spawning_dicey_heights"
+  ],
+  "name": {
+    "translate": "game.nucleoid.random"
+  },
+  "icon": "nucleoid_extras:lucky_tater"
+}

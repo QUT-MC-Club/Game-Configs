@@ -1,0 +1,15 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:bedrock",
+  "games": [
+    "dicey_heights:standard_dicey_heights",
+    "dicey_heights:separate_dicey_heights",
+    "dicey_heights:many_dicey_heights",
+    "dicey_heights:standard_pillar_spawning_dicey_heights",
+    "dicey_heights:separate_pillar_spawning_dicey_heights",
+    "dicey_heights:many_pillar_spawning_dicey_heights"
+  ],
+  "name": {
+    "translate": "game.diceyheights.standard_dicey_heights"
+  }
+}

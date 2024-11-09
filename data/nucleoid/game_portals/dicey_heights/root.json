@@ -1,0 +1,33 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "gameType.diceyheights.dicey_heights"
+  },
+  "icon": "minecraft:bedrock",
+  "entries": [
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dicey_heights/ffa/root",
+      "quick_portal": "nucleoid:dicey_heights/ffa/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dicey_heights/two_teams/root",
+      "quick_portal": "nucleoid:dicey_heights/two_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:dicey_heights/four_teams/root",
+      "quick_portal": "nucleoid:dicey_heights/four_teams/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    }
+  ]
+}
