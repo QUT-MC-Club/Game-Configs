@@ -5,12 +5,12 @@
     "Count": 4
   },
   "games": [
-    "dicey_heights:standard_dicey_heights_4_teams",
-    "dicey_heights:separate_dicey_heights_4_teams",
-    "dicey_heights:many_dicey_heights_4_teams",
-    "dicey_heights:standard_pillar_spawning_dicey_heights_4_teams",
-    "dicey_heights:separate_pillar_spawning_dicey_heights_4_teams",
-    "dicey_heights:many_pillar_spawning_dicey_heights_4_teams"
+    "diceyheights:standard_dicey_heights_4_teams",
+    "diceyheights:separate_dicey_heights_4_teams",
+    "diceyheights:many_dicey_heights_4_teams",
+    "diceyheights:standard_pillar_spawning_dicey_heights_4_teams",
+    "diceyheights:separate_pillar_spawning_dicey_heights_4_teams",
+    "diceyheights:many_pillar_spawning_dicey_heights_4_teams"
   ],
   "name": {
     "translate": "game.diceyheights.standard_dicey_heights_4_teams"
