@@ -17,7 +17,8 @@
     "bedwars:four_teams/hellish_nightmare",
     "bedwars:four_teams/logs",
     "bedwars:four_teams/monument",
-    "bedwars:four_teams/roadway"
+    "bedwars:four_teams/roadway",
+    "bedwars:four_teams/sakura_garden"
   ],
   "name": {
     "translate": "game.nucleoid.four_teams"
