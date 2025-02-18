@@ -1,8 +1,8 @@
 {
   "type": "nucleoid_extras:server_change",
   "icon": "minecraft:ender_eye",
-  "server_id": "minigames",
+  "server_id": "survival",
   "name": {
-    "translate": "server.nucleoid.minigames"
+    "translate": "server.nucleoid.survival"
   }
 }
