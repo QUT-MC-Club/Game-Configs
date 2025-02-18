@@ -1,6 +1,7 @@
 {
   "server.nucleoid.dev": "Update Development Server",
-  "server.nucleoid.play": "Play Server",
+  "server.nucleoid.minigames": "Minigames Server",
+  "server.nucleoid.survival": "Survival Server",
   "server.nucleoid.build": "Build Server",
 
   "nucleoid.navigator": "Navigator",
