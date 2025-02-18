@@ -5,7 +5,7 @@
     "Legally distinct falling-block game",
     "Developed by: Bruno Garcia"
   ],
-  "icon": "nucleoid_extras:puzzle_cube_tater",
+  "icon": "nucleoid_extras:qutmc_logo",
   "game": "nucleoid:watris",
   "players": 1
 }

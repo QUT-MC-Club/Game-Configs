@@ -1,6 +1,6 @@
 {
   "type": "plasmid:random",
-  "icon": "nucleoid_extras:lucky_tater",
+  "icon": "nucleoid_extras:qutmc_logo",
   "name": {
     "translate": "game.nucleoid.random"
   },
