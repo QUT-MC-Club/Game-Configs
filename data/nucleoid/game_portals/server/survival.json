@@ -1,6 +1,6 @@
 {
   "type": "nucleoid_extras:server_change",
-  "icon": "minecraft:ender_eye",
+  "icon": "minecraft:grass_block",
   "server_id": "survival",
   "name": {
     "translate": "server.nucleoid.survival"

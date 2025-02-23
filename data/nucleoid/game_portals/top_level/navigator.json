@@ -23,11 +23,11 @@
     },
     "3:3": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/tabletop"
+      "portal": "nucleoid:server/survival"
     },
     "5:3": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:top_level/categories/miscellaneous"
+      "portal": "nucleoid:server/creative"
     }
   }
 }

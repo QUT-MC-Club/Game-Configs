@@ -2,6 +2,7 @@
   "server.nucleoid.dev": "Update Development Server",
   "server.nucleoid.minigames": "Minigames Server",
   "server.nucleoid.survival": "Survival Server",
+  "server.nucleoid.creative": "Creative Server",
   "server.nucleoid.build": "Build Server",
 
   "nucleoid.navigator": "Navigator",
