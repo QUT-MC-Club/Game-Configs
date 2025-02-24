@@ -6,19 +6,16 @@
   "icon": "minecraft:bricks",
   "entries": [
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "",
-      "quick_portal": "nucleoid:spleef/standard/root"
+      "type": "plasmid:portal",
+      "portal": "nucleoid:builderdash/modes/pictionary"
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:spleef/explosive/root",
-      "quick_portal": "nucleoid:spleef/explosive/random"
+      "type": "plasmid:portal",
+      "portal": "nucleoid:builderdash/modes/telephone"
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:spleef/run/root",
-      "quick_portal": "nucleoid:spleef/run/random"
+      "type": "plasmid:portal",
+      "portal": "nucleoid:builderdash/modes/versus"
     }
   ]
 }
