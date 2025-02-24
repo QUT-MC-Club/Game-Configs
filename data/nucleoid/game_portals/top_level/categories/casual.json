@@ -7,11 +7,7 @@
   "entries": [
     {
       "type": "plasmid:portal",
-      "portal": "builderdash:root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:build_battle"
+      "portal": "nucleoid:builderdash/root"
     },
     {
       "type": "nucleoid_extras:quick_portal",
