@@ -14,12 +14,8 @@
       }
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:ascension/root",
-      "quick_portal": "nucleoid:ascension/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
+      "type": "nucleoid_extras:portal",
+      "portal": "nucleoid:ascension"
     },
     {
       "type": "nucleoid_extras:quick_portal",
