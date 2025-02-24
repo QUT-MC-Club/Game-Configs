@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:note_block",
+  "games": [
+    "builderdash:telephone",
+    "builderdash:telephone_double_rounds",
+    "builderdash:telephone_fast",
+    "builderdash:telephone_fast_double_rounds"
+  ],
+  "name": {
+    "translate": "gameType.builderdash.telephone"
+  }
+}

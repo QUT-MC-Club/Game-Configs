@@ -1,0 +1,13 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:iron_sword",
+  "games": [
+    "builderdash:versus",
+    "builderdash:versus_double_rounds",
+    "builderdash:versus_fast",
+    "builderdash:versus_fast_double_rounds"
+  ],
+  "name": {
+    "translate": "gameType.builderdash.versus"
+  }
+}

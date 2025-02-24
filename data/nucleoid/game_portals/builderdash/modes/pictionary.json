@@ -1,0 +1,11 @@
+{
+  "type": "nucleoid_extras:styled/simple_menu",
+  "icon": "minecraft:painting",
+  "games": [
+    "builderdash:pictionary",
+    "builderdash:pictionary_double_rounds"
+  ],
+  "name": {
+    "translate": "gameType.builderdash.pictionary"
+  }
+}

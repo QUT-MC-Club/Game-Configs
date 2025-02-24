@@ -104,5 +104,7 @@
   "game.nucleoid.skywars.duos": "Skywars (Duos)",
   
   "game.nucleoid.tater": "Tater Games",
-  "game.nucleoid.tater.spleef": "Tater Spleef"
+  "game.nucleoid.tater.spleef": "Tater Spleef",
+
+  "gameType.builderdash.builderdash": "Builderdash"
 }
