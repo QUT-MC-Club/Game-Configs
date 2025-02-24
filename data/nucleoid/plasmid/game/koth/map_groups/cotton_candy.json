@@ -3,8 +3,7 @@
   "games": [
     "koth:cotton_candy_scored",
     "koth:cotton_candy_scored_bow",
-    "koth:cotton_candy_scored_leap",
-    "koth:cotton_candy_scored_wta"
+    "koth:cotton_candy_scored_leap"
   ],
   "icon": "minecraft:pink_stained_glass"
 }

@@ -1,7 +1,6 @@
 {
   "type": "plasmid:random",
   "games": [
-    "nucleoid:spleef/explosive/aperture",
     "nucleoid:spleef/explosive/donut",
     "nucleoid:spleef/explosive/endless_tater",
     "nucleoid:spleef/explosive/fast",
