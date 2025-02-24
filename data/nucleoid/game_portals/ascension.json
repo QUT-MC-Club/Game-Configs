@@ -1,4 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "game": "nucleoid:ascension/random"
+  "game": "ascension:standard_ascension"
 }
