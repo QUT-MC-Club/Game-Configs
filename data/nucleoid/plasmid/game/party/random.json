@@ -2,7 +2,7 @@
   "type": "plasmid:random",
   "games": [
     "nucleoid:anvil_drop/random",
-    "nucleoid:ascension",
+    "ascension:standard_ascension",
     "nucleoid:color_swap/random",
     "downpour:standard_downpour",
     "electricfloor:standard_electric_floor",
