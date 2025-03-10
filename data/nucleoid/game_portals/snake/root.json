@@ -3,7 +3,6 @@
   "icon": "minecraft:green_candle",
   "games": [
     "snake:standard",
-    "snake:catacombs",
     "snake:racetrack",
     "snake:parking",
     "snake:circuit"

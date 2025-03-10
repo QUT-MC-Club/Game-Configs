@@ -2,7 +2,6 @@
   "type": "plasmid:random",
   "games": [
     "snake:standard",
-    "snake:catacombs",
     "snake:racetrack",
     "snake:parking",
     "snake:circuit"
