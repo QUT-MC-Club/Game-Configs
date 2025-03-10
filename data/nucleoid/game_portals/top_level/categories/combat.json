@@ -15,11 +15,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "uhc:root"
-    },
-    {
-      "type": "plasmid:portal",
-      "portal": "nucleoid:survival_games"
+      "portal": "nucleoid:destroy_the_monument/root"
     },
     {
       "type": "nucleoid_extras:quick_portal",
@@ -31,7 +27,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:siege/root"
+      "portal": "nucleoid:quakecraft/root"
     },
     {
       "type": "plasmid:portal",

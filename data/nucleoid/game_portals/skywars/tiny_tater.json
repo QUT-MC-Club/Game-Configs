@@ -1,8 +1,0 @@
-{
-  "type": "plasmid:concurrent_game",
-  "icon": "nucleoid_extras:qutmc_logo",
-  "game": "skywars:single/tinytater",
-  "name": {
-    "translate": "game.skywars.tinytater"
-  }
-}
