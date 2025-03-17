@@ -35,6 +35,10 @@
     },
     {
       "type": "plasmid:portal",
+      "portal": "uhc:root"
+    },
+    {
+      "type": "plasmid:portal",
       "portal": "nucleoid:micro_battle/root"
     },
     {
