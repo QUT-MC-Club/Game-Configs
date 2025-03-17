@@ -15,7 +15,7 @@
     },
     {
       "type": "nucleoid_extras:portal",
-      "portal": "nucleoid:ascension"
+      "portal": "ascension:standard_ascension"
     },
     {
       "type": "nucleoid_extras:quick_portal",
