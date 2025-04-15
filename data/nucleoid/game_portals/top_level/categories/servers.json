@@ -1,0 +1,21 @@
+{
+  "type": "nucleoid_extras:styled/advanced_menu",
+  "name": {
+    "translate": "nucleoid.navigator.category.servers"
+  },
+  "icon": "minecraft:axolotl_bucket",
+  "entries": [
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:server/modded"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:server/survival"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:server/skyblock"
+    }
+  ]
+}

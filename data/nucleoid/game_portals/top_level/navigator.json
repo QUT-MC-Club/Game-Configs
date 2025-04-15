@@ -21,13 +21,17 @@
         "translate": "text.nucleoid_extras.ui.action.party_games"
       }
     },
-    "3:3": {
+    "2:3": {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:server/modded"
+    },
+    "4:3": {
       "type": "plasmid:portal",
       "portal": "nucleoid:server/survival"
     },
-    "5:3": {
+    "6:3": {
       "type": "plasmid:portal",
-      "portal": "nucleoid:server/creative"
+      "portal": "nucleoid:server/skyblock"
     }
   }
 }

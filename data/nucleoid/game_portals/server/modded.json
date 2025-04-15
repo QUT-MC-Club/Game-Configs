@@ -1,0 +1,8 @@
+{
+  "type": "nucleoid_extras:server_change",
+  "icon": "minecraft:barrier",
+  "server_id": "modded",
+  "name": {
+    "translate": "server.nucleoid.modded"
+  }
+}

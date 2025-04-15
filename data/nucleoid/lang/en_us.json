@@ -1,14 +1,16 @@
 {
   "server.nucleoid.dev": "Update Development Server",
   "server.nucleoid.minigames": "Minigames Server",
-  "server.nucleoid.survival": "Survival Server",
-  "server.nucleoid.creative": "Creative Server",
+  "server.nucleoid.survival": "Survival Server [Member Only]",
+  "server.nucleoid.skyblock": "Skyblock Server [Coming Soon]",
+  "server.nucleoid.modded": "Modded Server [Coming Soon]",
   "server.nucleoid.build": "Build Server",
 
   "nucleoid.navigator": "Navigator",
   "nucleoid.navigator.category.casual": "Casual",
   "nucleoid.navigator.category.combat": "Combat",
   "nucleoid.navigator.category.party": "Party",
+  "nucleoid.navigator.category.servers": "Member Servers",
   "nucleoid.navigator.category.tabletop": "Tabletop",
   "nucleoid.navigator.category.miscellaneous": "Miscellaneous",
 

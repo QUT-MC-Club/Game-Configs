@@ -1,8 +1,0 @@
-{
-  "type": "nucleoid_extras:server_change",
-  "icon": "minecraft:elytra",
-  "server_id": "creative",
-  "name": {
-    "translate": "server.nucleoid.creative"
-  }
-}
