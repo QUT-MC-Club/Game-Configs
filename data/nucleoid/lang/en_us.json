@@ -1,9 +1,9 @@
 {
   "server.nucleoid.dev": "Update Development Server",
   "server.nucleoid.minigames": "Minigames Server",
-  "server.nucleoid.survival": "Survival Server [Member Only]",
-  "server.nucleoid.skyblock": "Skyblock Server [Coming Soon]",
-  "server.nucleoid.modded": "Modded Server [Coming Soon]",
+  "server.nucleoid.survival": "Survival [Member Only]",
+  "server.nucleoid.skyblock": "Skyblock [Coming Soon]",
+  "server.nucleoid.modded": "Modded [Coming Soon]",
   "server.nucleoid.build": "Build Server",
 
   "nucleoid.navigator": "Navigator",
